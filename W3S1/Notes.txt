@@ -1,0 +1,29 @@
+WEEK 3 SESSION 1
+
+BELT EXAM PREP
+
+Housekeeping:
+
+    -Discussion Questions 
+    -Assignments
+
+    -must submit exam within 24 hours 
+    -organizing your files
+    -absolute vs relative path with images
+    -divs are for 2 or more items
+
+<img src="images/myphoto.jpeg">
+
+-Plan your page before coding
+
+--display:block (this is default)
+    -takes up an entire row
+
+--display:inline-block
+
+--display:flex (must be parent, should be for
+multiple items)
+    -justify-content (positions horizontal)
+    -align-items (vertical)
+
+

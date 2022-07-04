@@ -1,0 +1,43 @@
+WEEK 2 SESSION 1
+
+--FLEXBOX--
+
+HOUSEKEEPING:
+    -WEDNESDAY LECTURE MOVED TO TUESDAY THIS WEEK
+    -Exam window opens on Friday the 15th
+        -Tuesday May 24th is the last day to start your exam
+        -3 attempts
+        -24 hours to take the exam once unlocked
+        -recreating a wireframe
+        -open book
+        -cannot ask people for help
+        -Don't wait til the last minute!
+
+    -Discussion Questions!
+
+-The Parent/Child relationship
+    -what type of display is on each element?
+    -is it a parent or a child, or both?
+
+-display:flex 
+    -must be used on the parent element
+    -should only be used for two or more child elements
+    -justify-content:  balance items evenly across the page horizontally
+    -align-items: balances items vertically
+    -flex-direction
+
+
+-display:flex goes on a parent container
+-affects all of the direct children
+-justify-content aligns items horizontally
+-align-items aligns items vertically
+
+-flexbox froggy
+
+-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+-plotting blocks with flex
+
+-Flex-navbar
+
+-Breakout Room Exercise after Lecture

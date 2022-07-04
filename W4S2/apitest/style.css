@@ -1,0 +1,9 @@
+/* * {
+    border:2px dotted black;
+} */
+
+.image {
+    display:flex;
+    border:2px solid black;
+    color:white;
+}

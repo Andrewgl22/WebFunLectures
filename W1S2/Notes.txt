@@ -1,0 +1,50 @@
+WEEK 1 SESSION 2
+
+CSS, SELECTORS, BOX MODEL
+
+HOUSEKEEPING:
+    
+    -No Instruction staff available Friday
+    -Group Activity after lecture
+    -Do your Assignments and Discussion Questions!
+    -please fill out skills assessment survey: https://operations462398.typeform.com/to/vbkpiSC9#program=xxxxx&start_date=xxxxx&lead_channel=xxxxx&address=xxxxx
+
+-CSS! Cascading Style Sheets
+
+-connecting stylesheet to html page with link tag (link:css)
+
+-CSS Selectors:
+    -3 ways to target or select html elements:
+        -by element
+        -by class
+        -by id
+
+    -specificity -- Id, Class, Element
+
+    -The Wildcard * and CSS Reset 
+
+-CSS properties:
+    -color
+    -background-color
+    -text-align
+
+CSS Properties W3 Reference: https://www.w3schools.com/cssref/default.asp
+
+-Display Properties:
+    -Display:Block (default for most HTML elements)
+    -Display:Inline-Block (default for anchor and input tags, buttons etc)
+
+-THE BOX MODEL:
+    -Margin - Pushes elements away from each other
+    -Border 
+    -Padding - adds extra space inside the box
+    -Width and Height
+
+-The Almighty Div!
+
+-parent child relationships
+    -parent > child
+    -.parentclass childelement
+
+
+

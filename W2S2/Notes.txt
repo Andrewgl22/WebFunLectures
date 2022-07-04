@@ -1,0 +1,40 @@
+WEEK 2 SESSION 2
+
+Javascript Basics
+
+HOUSEKEEPING:
+    -Exam window opens Friday 
+        -Folder Structure and zipping projects
+        -email me when you have completed the exam
+
+    -DO YOUR DISCUSSION QUESTIONS
+
+-linking script tags
+-script tag with src at bottom of html page, or in the head tag is fine too. Needs to read the body of the html before hitting the javascript tag, because it’s going to try to read elements that don’t exist/haven’t loaded yet.
+
+—What is a function?
+
+-QuerySelector
+
+-manipulating the DOM with innertext
+
+-What are events?
+
+-onclick and onmouseover/onmouseout functions
+    -change image src
+    -Absolute vs Relative Path
+
+-passing 'this' into functions
+
+-creating a like button
+
+-alert("myAlert")
+
+-element.remove()
+
+//takes time in milliseconds
+-setTimeout(function, 3000)
+
+-element.style.backgroundcolor = “red” …etc
+
+-cursor:pointer

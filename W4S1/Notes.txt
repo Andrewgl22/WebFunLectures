@@ -1,0 +1,71 @@
+WEEK 4 SESSION 1
+
+** HOUSEKEEPING **
+
+    --TOMORROW IS THE LAST DAY TO START THE EXAM
+    --WEDNESDAY IS THE LAST DAY TO TURN IN ASSIGNMENTS AND DQS
+        --6 out of 7 assignments needed to pass
+        --6 out of 8 discussion questions needed to pass
+    
+TERMINAL AND GITHUB BASICS
+
+-Cmnder for Windows users
+
+-GitBash terminal commands
+
+    -folder structure and navigating through your computer
+    -pwd 
+    -ls
+    -cd (~ or / to return to top of directory)
+    -mkdir
+    -touch
+    -mv
+    -cp
+
+    -. code with command pallete to open foler in vs code
+        -'shell command install code command path'
+
+-GITHUB
+
+    -Git is a version control system
+
+    -how to create your account and first repo
+        -git config for local machine
+        -git personal access token for remote account (developer settings)
+
+    -create local repo with git init
+    -ls -a will show your git file
+    -rm -rf .git will remove version history from local repo
+
+    -git remote origin URL to connect to a remote repo
+    -git clone to make copy on your machine
+
+    GIT STAGING
+        -git status to check status of files
+        -git add ., 
+        -git commit -m "message" to stage changed files
+        -git push to add files to remote repo
+
+        -git log to see list of commits
+
+    GIT COLLABORATION
+        -git clone
+        -branches
+
+        -DO NOT FORK REPO WHEN COLLABORATING
+
+        //create a local git repository
+        git init (creates a hidden .git file )
+        //add my files/changes to the staging area
+        git add .
+        //commit a snapshot of my project
+        git commit -m "first commit"
+
+        //connect local repo to remote repo
+        git remote add origin *specifc url of github repo*
+        //specify default upstream branch (and push at the same time)
+        git push --set-upstream origin main
+
+        //personal access token to authenticate you when you push to github
+            --settings --> developer settings --> Personal Access Tokens
+

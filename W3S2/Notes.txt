@@ -1,0 +1,52 @@
+WEEK 3 SESSION 2
+
+JAVASCRIPT LOOPS AND CONDITIONALS
+
+HOUSEKEEPING:
+    
+    -Don't wait to take your first attempt!
+    -Discussion Questions 
+
+-code runner extension to run JS files in VS Code
+
+-install Node JS (slide on platform)
+
+-variables
+    -a box to store a data value in memory
+
+-data types
+    -strings   
+    -integers
+    -booleans
+
+-data structures
+    -arrays
+        -index positions (0 start)
+
+    -objects  
+
+-console.log()
+
+-for loop
+    -variable, stop point, iteration
+-while loop (not used quite as often, does the same thing)
+
+-CONDITIONALS
+    -if/else if/else chains
+    -comparisons (evaluate to true or false) 
+    -nested conditionals
+
+    -OPERATORS
+        = assignment     
+        == comparison operator
+        < less than
+        > greater than
+        <= less than or equal to
+        >= greater than or equal to
+        % modulo
+        && AND
+        || OR
+
+-return statements
+
+-FizzBuzz

@@ -1,0 +1,43 @@
+* {
+   border:2px dotted red; 
+}
+
+
+/* this is an id selector. It can only be used 
+on one html tag */
+#myh1 {
+    background-color:seagreen;
+}
+
+/* This is a class that can be re-used
+as many times as you want */
+.myClass {
+    background-color:purple;
+    /* display:inline-block; */
+}
+
+tr > td {
+    background-color:green;
+}
+
+.image {
+    height:200px;
+    
+}
+
+.wrapper {
+    background-color:white;
+    width:960px;
+    height:1020px;
+    border:1px solid black;
+    margin:0px auto;
+}
+
+table, td {
+    border:2px solid black;
+}
+
+
+
+
+

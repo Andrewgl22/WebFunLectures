@@ -1,0 +1,24 @@
+WEEK 4 SESSION 2
+
+API AND AJAX
+
+-what is an API?
+    -Application Programming Interface
+
+-what are endpoints?
+
+-objects
+-JavaScript Object Notation (JSON)
+
+-Pokemon API
+
+-fetch
+
+-AJAX
+    -Asynchronous Javascript And XML
+
+-async/await. What is asynchronous code?
+
+-render data from an API or server to the front end HTML
+
+-get all pokemon, and render each in a bootstrap card

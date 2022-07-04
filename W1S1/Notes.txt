@@ -1,0 +1,90 @@
+WEEK 1 SESSION 1
+
+HOUSEKEEPING:
+
+-Class Calendar
+    -Assignments 90% (6/7) required to pass
+    -Discussion Questions 80% (6/8) required to pass
+        --Due at 11:59PM PST on Sunday of each week
+        --Required for attendance
+    -Exam
+
+*** No Instruction Staff this Friday May 6th
+
+    -Lecture Recordings
+
+    --20 Minute Rule
+
+        --struggle with it for 20 minutes
+        Ask:
+            -Google (Jeopardy)
+            -Stack Overflow
+            -W3 HTML Reference: https://www.w3schools.com/TAGS/default.ASP
+                
+            -Peers
+                -ask question on public WebFun Channel
+            -TA's
+                @teacher assistant flags all TA's
+                -Dojo Hall
+                -Discord Help Channel
+                    -i-server-info channel
+                -Writing Code Blocks for Questions
+            -Instructors
+                -Sign up for 1:1 on Calendly
+
+-VSCode, download all extensions
+    -open with live server/open in default browser
+    -bracket pair colorizer
+    -rainbow-indent
+    -prettier
+    -material-icon theme
+    -code runner for javascript (may require node)
+
+-Discord:
+    -cohort channel
+    -webfun public channel
+    -i-server-info
+    -sharing code with code blocks
+    -asking questions on Discord
+        -@teacher assistant
+        -help channels
+        -collab channels
+
+-this program is a lot of work, plan out time, get sleep, eat well
+    The more time and focus you put in, the more you will get out
+
+-Academic Integrity:
+    -Copying the solutions and submitting is not acceptable and 
+    will only hurt your success moving forward.
+
+
+
+
+
+
+WEEK 1 SESSION 1
+
+** Breakout Room Activity after lecture!
+
+Intro To HTML
+
+-Hyper Text Markup Language
+
+-the DOM (Document Object Model)
+
+-Syntax
+    -opening and closing tags
+        -head and body
+        -lists and tables
+        -text tags
+        -img 
+        -forms
+        -div tags
+        
+    -comments
+    -emmet
+
+-Inspector Tool
+
+-HTML Validator: https://validator.w3.org/
+    -validate your code before submitting assignments!
